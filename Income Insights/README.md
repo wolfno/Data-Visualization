@@ -1,6 +1,6 @@
 ## Income Insights Austria
 
-#### A project in which I visualized Austrian governmental income tax statistics.
+#### A project in which I visualized Austrian governmental income tax statistics using Tableau.
 [View the full analysis here!](https://github.com/wolfno/Data-Visualization/blob/main/Income%20Insights/Income%20Insights%20Austria.pdf)
 
 <br> </br>
@@ -18,7 +18,7 @@
 <br></br>
 **Tools and Data:**
 * Tableau Desktop
-* Income Tax Statistics (official governmental data, public)
+* Income Tax Statistics (official government data, public)
 
 
 <br></br>
